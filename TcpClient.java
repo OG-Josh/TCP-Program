@@ -8,8 +8,8 @@ import java.net.Socket;
 *  Receives a line of input from the keyboard and sends it to the server
 *  Receives a response from the server and displays it.
 *
-*  @author: Michael Fahy
-*      Email:  fahy@chapman.edu
+*  @author: Josh Y
+*      Email:  joyang@chapman.edu
 *      Date:  2/13/2021
 *  @version: 3.2
 */
