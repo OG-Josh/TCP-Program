@@ -10,8 +10,8 @@ import java.net.Socket;
 *  Receives a line of input from a TCP client
 *  Returns an upper case version of the line to the client
 *
-*  @author: Michael Fahy
-*      Email:  fahy@chapman.edu
+*  @author: Josh Y
+*      Email:  joyang@chapman.edu
 *      Date:  2/13/2021
 *  @version: 3.2
 */
